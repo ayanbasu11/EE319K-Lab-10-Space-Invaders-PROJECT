@@ -46,3 +46,8 @@ Score is displayed at the end of the game
 
 Language options (English and Spanish) are displayed at beginning of game (enter game screen)
 
+
+
+**MAJOR DISCLAIMER: 
+THE SOUND EFFECTS (FIRE SOUND EFFECT, SELECTION SOUND EFFECT WITH BUTTONS, DEATH SOUND EFFECT, etc.) WILL NOT OUTPUT UNLESS YOU HAVE A LICENSE (a.k.a. LICENSE CODE or LICENSE KEY) FOR KEIL uVision. (In class, we used the free version of Keil). If you want a license key for Keil, contact your professor or follow the link below: 
+https://www.keil.com/download/license/
